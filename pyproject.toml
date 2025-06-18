@@ -1,0 +1,14 @@
+[project]
+name = "structural-optimization"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "autograd>=1.8.0",
+    "matplotlib>=3.10.3",
+    "nlopt>=2.9.1",
+    "pdbpp>=0.11.6",
+    "pyrallis>=0.3.1",
+    "scipy>=1.15.3",
+]
